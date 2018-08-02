@@ -7,3 +7,4 @@ describe('main()', () => {
         expect(main(11, 4)).toBe(3);
     });
 });
+
